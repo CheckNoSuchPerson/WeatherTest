@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/asProject/WeatherTest2/app/src/main/res/drawable/circle_rect_shape.xml" value="0.3764102564102564" />
+        <entry key="..\:/asProject/WeatherTest2/app/src/main/res/drawable/dialog_drawable.xml" value="0.3764102564102564" />
+        <entry key="..\:/asProject/WeatherTest2/app/src/main/res/drawable/menu_shape.xml" value="0.38229166666666664" />
+        <entry key="..\:/asProject/WeatherTest2/app/src/main/res/layout/activity_city_search.xml" value="0.2046875" />
+        <entry key="..\:/asProject/WeatherTest2/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/asProject/WeatherTest2/app/src/main/res/layout/city_search_item.xml" value="0.36614583333333334" />
+        <entry key="..\:/asProject/WeatherTest2/app/src/main/res/layout/dialog_tips.xml" value="0.36614583333333334" />
+        <entry key="..\:/asProject/WeatherTest2/app/src/main/res/layout/item_weather.xml" value="0.5" />
+        <entry key="..\:/asProject/WeatherTest2/app/src/main/res/layout/layout_city_search.xml" value="0.36614583333333334" />
+        <entry key="..\:/asProject/WeatherTest2/app/src/main/res/layout/layout_feedback.xml" value="0.36614583333333334" />
+        <entry key="..\:/asProject/WeatherTest2/app/src/main/res/layout/layout_weather_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/asProject/WeatherTest2/app/src/main/res/layout/menu.xml" value="0.36614583333333334" />
+        <entry key="..\:/asProject/WeatherTest2/app/src/main/res/menu/menu_main.xml" value="0.3605128205128205" />
+        <entry key="..\:/asProject/WeatherTest2/behavior/src/main/res/layout/activity_main.xml" value="0.3515625" />
+        <entry key="..\:/asProject/WeatherTest2/common/src/main/res/drawable/dialog_drawable.xml" value="0.3764102564102564" />
+        <entry key="..\:/asProject/WeatherTest2/mydialog/src/main/res/drawable/dialog_drawable.xml" value="0.3764102564102564" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
