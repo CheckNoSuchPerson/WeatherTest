@@ -48,8 +48,8 @@ public class SlideUpLayout extends FrameLayout {
 
         @Override
         public boolean onFling(MotionEvent e1, MotionEvent e2, float velocityX, float velocityY) {
-            Log.d("debugt", "velocityY = " + velocityY + ",velocityX = " + velocityX);
-            if (velocityY > 800) {
+            //e1是down事件，e2是最后一个move <0 代表向下
+            if (e1.getRawY() - e2.getRawY() < 0 && Math.abs(velocityY) > 400) {
                 hideAnimation(GONE, (int) -mDeltaY);
             }
             return super.onFling(e1, e2, velocityX, velocityY);
