@@ -71,7 +71,9 @@
             android:layout_marginBottom="@dimen/dp_60"
             app:layout_anchor="@id/scroll_view"
             app:layout_anchorGravity="bottom|end|right"
-            app:layout_behavior="com.example.behavior.MyBehavior" />
+            app:layout_behavior="com.example.behavior.MyBehavior"
+            android:src="@mipmap/forecast"
+            app:fabCustomSize="@dimen/dp_40"/>
 
 
     </androidx.coordinatorlayout.widget.CoordinatorLayout>

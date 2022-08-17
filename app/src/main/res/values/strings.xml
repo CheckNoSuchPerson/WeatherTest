@@ -10,4 +10,5 @@
     <string name="temp_range">%1$s° / %2$s°</string>
     <string name="search_city" > %1$s - %2$s - %3$s</string>
     <string name="sure">确定</string>
+    <string name="no_forecast_api">暂无可用的天气预报api</string>
 </resources>

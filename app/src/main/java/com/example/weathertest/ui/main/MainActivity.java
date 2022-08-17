@@ -173,7 +173,7 @@ public class MainActivity extends BaseActivity {
             public void onClick(View v) {
                 dialog = new MyDialog.Builder(MainActivity.this)
                         .setView(R.layout.dialog_tips)
-                        .setViewText(R.id.tv_dialog_tips, "点击了actionBar 测试")
+                        .setViewText(R.id.tv_dialog_tips, getString(R.string.no_forecast_api))
                         .setViewClickListener(R.id.tv_dialog_sure, new View.OnClickListener() {
                             @Override
                             public void onClick(View v) {
